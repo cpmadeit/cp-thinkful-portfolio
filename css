@@ -1,1 +1,45 @@
+header {
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #031926;
+  color: #F4E9CD;
+  padding-top: 5px;
+  padding-left: 25px;
+}
 
+nav {
+  text-align: right;
+  margin-right: 25px;
+  padding-bottom: 10px;
+}
+
+hr {
+  width: 500px;
+  height: 2px;
+  border: none;
+  background: #468189;
+  color: #468189;
+  margin-top: 25px;
+  margin-bottom:35px;
+}
+
+main {
+  background-color: #F4E9CD;
+  text-align: center;
+  color:#031926;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+}
+
+footer {
+  background-color: #031926;
+  color: #F4E9CD;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+}
+
+a:link {color: #F4E9CD}
+a:visited {color: #77ACA2}
+a:hover {color: #9DBEBB}
+a:active {color: #77ACA2}
