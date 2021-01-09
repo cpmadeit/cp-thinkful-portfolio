@@ -6,7 +6,7 @@ header {
   text-align: left;
   font-family: Arial, Helvetica, sans-serif;
   background-color: #6B705C;
-  color: #CB997E;
+  color: #DDBEA9;
   padding-top: 5px;
   padding-left: 25px;
 }
@@ -37,13 +37,13 @@ main {
 
 footer {
   background-color: #6B705C;
-  color: #CB997E;
+  color: #DDBEA9;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   margin: 0px;
 }
 
-a:link {color: #}
-a:visited {color: #}
-a:hover {color: #}
-a:active {color: #}
+a:link {color: #DDBEA9}
+a:visited {color: #CB997E}
+a:hover {color: #CB997E}
+a:active {color: #FFE8D6}
