@@ -22,8 +22,8 @@ hr {
   width: 800px;
   height: 2px;
   border: none;
-  background: #;
-  color: #;
+  background: #CB997E;
+  color: #CB997E;
   margin-top: 25px;
   margin-bottom:35px;
 }
@@ -31,7 +31,7 @@ hr {
 main {
   background-color: #B7B7A4;
   text-align: center;
-  color:#;
+  color:#6B705C;
   font-family: Arial, Helvetica, sans-serif;
   margin: 0px;
 }
@@ -44,7 +44,7 @@ footer {
   margin: 0px;
 }
 
-a:link {color: #DDBEA9}
-a:visited {color: #CB997E}
-a:hover {color: #CB997E}
-a:active {color: #FFE8D6}
+a:link {color: #DDBEA9;}
+a:visited {color: #CB997E;}
+a:hover {color: #CB997E;}
+a:active {color: #FFE8D6;}
