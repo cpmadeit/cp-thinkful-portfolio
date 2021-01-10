@@ -45,6 +45,10 @@ footer {
   margin: 0px;
 }
 
+main > img {
+  padding: 50px;
+}
+
 a:link {color: #B7B7A4;}
 a:visited {color: #CB997E;}
 a:hover {color: #A5A58D;}
