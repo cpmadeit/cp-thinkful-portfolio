@@ -2,10 +2,7 @@
   box-sizing: border-box;
 }
 
-#page-wrap {
-     width: 800px;
-     margin: 0 auto;
-}
+/* header & nav */
 
 header {
   text-align: left;
@@ -17,11 +14,19 @@ header {
   
 }
 
+header > h1 {
+  padding: 5px;
+}
+
 nav {
   text-align: right;
   margin-right: 35px;
   padding-bottom: 20px;
 }
+
+
+
+/* main */
 
 hr {
   width: 800px;
@@ -42,6 +47,14 @@ main {
   padding-top: 25px;
 }
 
+main > img {
+  padding: 30px;
+}
+
+
+
+/* footer */
+
 footer {
   background-color: #6B705C;
   color: #DDBEA9;
@@ -50,26 +63,9 @@ footer {
   margin: 0px;
 }
 
-main > img {
-  padding: 30px;
-}
 
-main > p {
-  margin: 0px 200px 0px 200px;
-  width: 800px;
-}
 
-header > h1 {
-  padding: 5px;
-}
-
-h2 {
-  padding: 5px;
-}
-
-p {
-  
-}
+/* links */
 
 a:link {color: #0A0A0A;}
 a:visited {color: #141414;}
