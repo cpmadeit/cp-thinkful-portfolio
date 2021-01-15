@@ -19,8 +19,8 @@
 header {
   text-align: left;
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #6B705C;
-  color: #DDBEA9;
+  background-color: #;
+  color: #;
   padding-top: 15px;
   padding-left: 35px;
   
@@ -48,16 +48,16 @@ hr {
   width: 960px;
   height: 2px;
   border: none;
-  background: #CB997E;
-  color: #CB997E;
+  background: #;
+  color: #;
   margin-top: 25px;
   margin-bottom:35px;
 }
 
 main {
-  background-color: #B7B7A4;
+  background-color: #;
   text-align: center;
-  color:#4E5045;
+  color:#;
   font-family: Arial, Helvetica, sans-serif;
   margin: 0px;
   padding-top: 25px;
@@ -80,8 +80,8 @@ ol {
 /* footer */
 
 footer {
-  background-color: #6B705C;
-  color: #DDBEA9;
+  background-color: #;
+  color: #;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   margin: 0px;
@@ -91,7 +91,7 @@ footer {
 
 /* links */
 
-a:link {color: #443850;}
-a:visited {color: #0A0A0A;}
-a:hover {color: #283618;}
-a:active {color: #641b2e;}
+a:link {color: #;}
+a:visited {color: #;}
+a:hover {color: #;}
+a:active {color: #;}
