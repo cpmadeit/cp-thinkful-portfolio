@@ -19,8 +19,8 @@
 header {
   text-align: left;
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #;
-  color: #;
+  background-color: #132A13;
+  color: #ECF39E;
   padding-top: 15px;
   padding-left: 35px;
   
@@ -48,16 +48,16 @@ hr {
   width: 960px;
   height: 2px;
   border: none;
-  background: #;
-  color: #;
+  background: #132A13;
+  color: #132A13;
   margin-top: 25px;
   margin-bottom:35px;
 }
 
 main {
-  background-color: #;
+  background-color: #ECF39E;
   text-align: center;
-  color:#;
+  color:#132A13;
   font-family: Arial, Helvetica, sans-serif;
   margin: 0px;
   padding-top: 25px;
@@ -80,8 +80,8 @@ ol {
 /* footer */
 
 footer {
-  background-color: #;
-  color: #;
+  background-color: #132A13;
+  color: #ECF39E;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   margin: 0px;
