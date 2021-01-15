@@ -63,6 +63,10 @@ main > img {
   padding: 30px;
 }
 
+ul {
+  list-style-type: none;
+}
+
 
 
 /* footer */
