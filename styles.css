@@ -68,7 +68,7 @@ ul {
 }
 
 ol {
-  list-style: inside;
+  list-style-type: none;
   text-align: justify;
 }
 
