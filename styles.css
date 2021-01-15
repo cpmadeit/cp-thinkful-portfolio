@@ -90,7 +90,14 @@ footer {
 
 
 /* links */
+
+a:link {color: #344E41};
+a:visited {color: #375441};
+a:header {color: #4A6E4C};
+a:active {color: #588157};
+
 a.header:link {color: #DAD7CD;}
 a.header:visited {color: #A3B18A;}
 a.header:hover {color: #588157;}
 a.header:active {color: #4A6E4C;}
+
